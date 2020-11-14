@@ -1,2 +1,2 @@
-# TINL
-Today I Not Learned
+# TIDL
+Today I Didn't Learned
